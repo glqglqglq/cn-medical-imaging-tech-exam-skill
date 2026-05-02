@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-title: cn-medical-imaging-tech-exam-skill
-message: "If you use this skill in teaching or research, please cite this repository."
-type: software
-authors:
-  - family-names: "Yuan"
-    given-names: "Yizhou"
-repository-code: "https://github.com/glqglqglq/cn-medical-imaging-tech-exam-skill"
-license: "CC-BY-NC-SA-4.0"
